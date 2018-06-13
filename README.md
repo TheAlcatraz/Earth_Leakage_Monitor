@@ -3,7 +3,7 @@
  Instrument will measure and display leakage current in the dc-db box at the power station
  Earth Leakage Monitoring is a critical task since any leakage exceeding 5mAmps will result in 
  control systems and transformers exploding
- The Instrument requirement were given by substation battery supplier in Tirupati india
+ The Instrument requirement were given by substation battery supplier in Tirupati India
  
  
  ELM specifications:
